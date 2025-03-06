@@ -17,7 +17,7 @@ let personagem = {
     magia : 200,
     vida : 2000,
     mana : 200
-}
+
 
 console.log(personagem.magia)
 
