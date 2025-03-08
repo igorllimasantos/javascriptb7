@@ -74,7 +74,7 @@ for(let item of lista){
 
 //Gerenciar Eventos 
 //Evento de click é quando vai acontecer
-function avisar(){
+function avisar() {
     alert("Opa, Disparei")
 }
 
