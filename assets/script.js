@@ -72,8 +72,8 @@ for(let item of lista){
 //DOM
 //alert("opa aquii está um aviso")
 
-erenciar Eventos 
-Evento de click é quando vai acontecer
+//erenciar Eventos 
+//Evento de click é quando vai acontecer
 function avisar() {
     alert("Opa, Disparei")
 }
